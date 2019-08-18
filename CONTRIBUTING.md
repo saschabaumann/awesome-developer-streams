@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 
 ## Important!
@@ -9,7 +9,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 ## Table of Contents
 
 - [Adding to this list](#adding-to-this-list)
-- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
+- [Adding something to an awesome list](#how-to-add-a-developer-stream-to-awesome-developer-streams)
 - [Updating your Pull Request](#updating-your-pull-request)
 
 ## Adding to this list
@@ -22,6 +22,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Suggestions for improvements to the awesome list are _always_ welcome.
 - Check your spelling and grammar.
 - Pull requests and commits should have descriptive titles.
+- Add new developer streams alphabetically by the streamer's name or stream name.
 
 Suggestions for ammendments to these guidelines are always welcome - feel free to submit an issue or pull request.
 
@@ -42,4 +43,4 @@ You'll need to have a GitHub account - you can [register here](https://github.co
 
 Sometimes, the maintainers of awesome-developer-streams will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-developer-streams list guidelines. We're always happy to help in any way we can.
 
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
